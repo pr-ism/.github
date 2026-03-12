@@ -135,13 +135,12 @@ PR-ism은 단순히 PR 개수만 보여주는 도구가 아니라,
 
 | 영역 | 기술 |
 |:---|:---|
-| **Frontend** | TypeScript, Next.js, Vercel |
+| **Frontend** | TypeScript, Next.js |
 | **Backend** | Java, Spring Boot |
-| **Database** | MySQL (AWS RDS) |
-| **Infra** | AWS EC2 |
-| **Monitoring** | Grafana, Pinpoint (APM) |
-| **CI/CD** | GitHub Actions |
-| **Integration** | GitHub Webhook, Slack API |
+| **Database** | MySQL |
+| **Infra** | AWS, Vercel |
+| **Monitoring** | Grafana, Pinpoint |
+| **CI/CD** | GitHub Actions, Jenkins |
 
 ---
 
@@ -176,3 +175,4 @@ PR-ism은 다음과 같은 팀을 위해 설계되었습니다.
 [서비스 시작하기 →](https://www.pr-ism.site/)
 
 </div>
+
