@@ -60,8 +60,9 @@ PR-ism은 GitHub 협업 이벤트를 수집하고, Slack 알림과 통계 서버
 PR 처리 현황, 리뷰 건전성, 팀 협업 활동을 한눈에 파악할 수 있는 대시보드를 제공합니다.
 
 <div align="center">
-<img width="1266" height="888" alt="1번" src="https://github.com/user-attachments/assets/daf0d10f-8647-4c9c-b321-4d96031ba39c" />
+<img width="1266" height="888" alt="통계요약_retry" src="https://github.com/user-attachments/assets/47acd138-3c41-4c31-8cb5-c23a23f7359f" />
 </div>
+
 
 - **병목 구간 분석** — PR 생성부터 머지까지의 Cycle Time을 리뷰 대기 / 리뷰 진행 / 병합 대기로 세분화
 - **팀 협업 지수** — 리뷰어 수, Round Trip, Gini 계수로 리뷰 분배 균형도 측정
@@ -175,4 +176,5 @@ PR-ism은 다음과 같은 팀을 위해 설계되었습니다.
 [서비스 시작하기 →](https://www.pr-ism.site/)
 
 </div>
+
 
